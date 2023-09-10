@@ -13,7 +13,7 @@ body > div.d-flex.min-vh-100 > div > div:nth-child(2) > div{
 body > div.d-flex{
     padding-top: 4rem;
 }
-body  {
+/* body  {
     background: linear-gradient(300deg, white, white, #E14D2A);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
@@ -29,4 +29,4 @@ body  {
     100% {
       background-position: 0% 50%;
     }
-  }}
+  }} */
