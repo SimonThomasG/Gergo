@@ -1,0 +1,32 @@
+/* Header buttons */
+.custom-btn{
+    color: #001253; 
+    font-size: 1.5rem;
+    
+}
+
+/* Jumbo text */
+body > div.d-flex.min-vh-100 > div > div:nth-child(2) > div{
+    color: black;
+}
+/* Jumbotron */
+body > div.d-flex{
+    padding-top: 4rem;
+}
+body  {
+    background: linear-gradient(300deg, white, white, #E14D2A);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }}
