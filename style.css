@@ -58,6 +58,9 @@ body > div.d-flex {
   font-family: "Mate", serif;
 }
 
+
+
+
 @media screen and (max-width: 430px) {
   body > div.header > a {
     font-size: 1.3rem !important;
@@ -66,4 +69,18 @@ body > div.d-flex {
     padding: 16px 8px;
     font-size: 17px;
   }
+
+  body > div.d-flex > div > div.lc-block > div > h1{
+    font-size: 13vh !im
+    portant;
+  }
+#mobile-pic{
+  display: none;
+}
+}
+
+@media screen and (min-width: 431px) {
+ #desktop-pic{
+  display: none;
+} 
 }
